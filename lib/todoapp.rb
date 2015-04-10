@@ -1,3 +1,4 @@
+require "todoapp/command"
 require "todoapp/version"
 
 module Todoapp
