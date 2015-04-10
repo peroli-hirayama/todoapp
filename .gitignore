@@ -8,3 +8,8 @@
 /spec/reports/
 /tmp/
 /vendor/
+
+# Ignore vim .swp file
+*.swp
+*.swo
+*.log
